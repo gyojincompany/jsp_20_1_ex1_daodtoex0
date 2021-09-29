@@ -69,10 +69,7 @@ public class MemberDAO {
 		
 		return dtos;
 		
-	}
-	
-	
-	
+	}	
 	
 	
 }
